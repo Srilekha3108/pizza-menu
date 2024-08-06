@@ -1,0 +1,45 @@
+[
+    {
+        "PizzaName": "Margherita",
+        "PizzaType": "Veg",
+        "PizzaPrice": 179.99,
+        "PizzaImage": "https://www.profumodibasilico.it/wp-content/uploads/2016/06/160516_Pizza_Margherita-1500x1100.jpg",
+        "Status": "Active"
+    },
+    {
+        "PizzaName": "Pepperoni",
+        "PizzaType": "Non-veg",
+        "PizzaPrice": 289.0,
+        "PizzaImage": "https://media.istockphoto.com/id/472069177/photo/pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=qWpjykENslZdVemImywNo4YCX_uc4AOCJQo9J-Yivbk=",
+        "Status": "Active"
+    },
+    {
+        "PizzaName": "BBQ Chicken",
+        "PizzaType": "Non-veg",
+        "PizzaPrice": 349.0,
+        "PizzaImage": "https://bakingmischief.com/wp-content/uploads/2020/08/bbq-chicken-pizza-image-square-2.jpg",
+        "Status": "Inactive"
+    },
+    {
+        "PizzaName": "Veggie Supreme",
+        "PizzaType": "Veg",
+        "PizzaPrice": 159.0,
+        "PizzaImage": "https://www.nordicware.com/wp-content/uploads/2021/05/46400_traditional_pizza_pan_02_e.jpg",
+        "Status": "Active"
+    },
+    {
+        
+        "PizzaName": "Eastern Supreme Cheese Burst",
+        "PizzaType": "Veg",
+        "PizzaPrice": 199.0,
+        "PizzaImage": "https://product-assets.faasos.io/production/product/image_1658347479920_Middle_Eastern_Supreme_Cheese_Burst_Pizza.jpg",
+        "Status": "Active"
+    },
+    {
+        "PizzaName": "Chicken Colden delight",
+        "PizzaType": "Non-Veg",
+        "PizzaPrice": 299.0,
+        "PizzaImage": "https://www.dominos.co.in/files/items/MicrosoftTeams-image_(15).png",
+        "Status": "Active"
+    }
+]
